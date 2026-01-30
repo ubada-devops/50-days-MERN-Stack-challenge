@@ -2,7 +2,7 @@
 # MixBit Studio
 Building an AI-powered SaaS platform for developers  
 @Ubada_DevOps – Bengaluru, India – January 2026
-____
+__
 ## Project Vision
 MixBit Studio is a developer collaboration & lead-generation SaaS with:
 - RBAC System (Admin / Developer / User)
