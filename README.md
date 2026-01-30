@@ -1,6 +1,6 @@
-**50-Day MERN Stack Mastery Challenge**  
+### 50-Day MERN Stack Mastery Challenge
 
-__
+___
 ## Project Vision
 MixBit Studio is a developer collaboration & lead-generation SaaS with:
 - RBAC System (Admin / Developer / User)
