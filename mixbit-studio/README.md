@@ -31,3 +31,8 @@ MixBit Studio is a developer collaboration & lead-generation SaaS with:
 Follow daily updates: https://x.com/Ubada_DevOps
 
 ---
+
+## Current Status (Day 1)
+- Repo created
+- Monorepo folders added
+- .env.example created
